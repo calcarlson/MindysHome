@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerStats
+  - PlayerAttack
+  - Room
+  - Audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3380786151
+    locked: 0
+  - name: Monsters_Back
+    uniqueID: 1831103287
+    locked: 0
+  - name: Monsters
+    uniqueID: 553994451
+    locked: 0
+  - name: Player
+    uniqueID: 1061521577
+    locked: 0
+  - name: PlayerAttack
+    uniqueID: 3278262753
+    locked: 0
+  - name: Furniture_Back
+    uniqueID: 2373875129
+    locked: 0
+  - name: Furniture
+    uniqueID: 2086781159
+    locked: 0
+  - name: Furniture_Front
+    uniqueID: 3951762177
+    locked: 0
+  - name: UI
+    uniqueID: 445775017
+    locked: 0
